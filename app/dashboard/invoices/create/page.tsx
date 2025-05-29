@@ -4,7 +4,7 @@ import { fetchCustomers } from '@/app/lib/data';
 
 import { Metadata } from 'next';
 export const metadata: Metadata = {
-  title: 'Create',
+  title: 'Creat',
 };
  
 export default async function Page() {
